@@ -1,4 +1,4 @@
 <?php
-header("Location: https://uk.norton.com/nortonservices?inid=nortoncom_nav_nortonservices_homepage:home");
+header("Location: https://www.lightingdirect.com/ceiling-fixtures/c1206");
 die();
 ?>
