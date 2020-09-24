@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.lightingdirect.com/ceiling-fixtures/c1206");
+header("Location: https://au.norton.com/antivirus?inid=nortoncom_nav_antivirus_products-services:overview");
 die();
 ?>
